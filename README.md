@@ -3,7 +3,6 @@
 // base64 -w 0 -i rev.raw > rev.bs64
 // cat rev.bs64
  
-<center>![Xiao tsai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaotsai&show_icons=true)</center>
 
 
 <div align="center">  
